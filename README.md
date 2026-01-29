@@ -1,0 +1,1 @@
+# Mechanical_Parts_Detection_yolov5
