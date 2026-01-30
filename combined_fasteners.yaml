@@ -1,0 +1,9 @@
+
+path: /users/eleves-a/2023/aymen.hammami/Documents/fasteners/dataset
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names: ['bolt', 'nut', 'washer', 'bearing', 'gear']
